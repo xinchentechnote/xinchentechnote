@@ -11,7 +11,11 @@ Here you'll find my technical notes, side projects, and contributions to the dev
 - 🔭 Currently working on: [your project or field]
 - 🌱 Currently learning: [topics you're learning]
 - 💬 Ask me about: software testing, automation, backend development
-- 🛠 Tech Stack: Python, Go, JavaScript, Linux, Docker, Git
+- 🛠 Tech Stack: Python, Go, Java, Typescript, Rust
+
+
+
+
 - ✍️ Blog: [Add your blog if available]
 - 📫 How to reach me: [your email or social handle]
 
@@ -21,12 +25,6 @@ Here you'll find my technical notes, side projects, and contributions to the dev
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinchentechnote&layout=compact&hide=html,css)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xinchentechnote&show_icons=true&theme=default)
-
----
-
-## 🏆 GitHub Trophies
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=xinchentechnote&theme=flat&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
