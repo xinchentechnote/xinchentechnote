@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi there, I'm Xinchentechnote
 
-<!--
-**xinchentechnote/xinchentechnote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm passionate about technology, open source, and continuous learning.  
+Here you'll find my technical notes, side projects, and contributions to the developer community.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 Currently working on: [your project or field]
+- 🌱 Currently learning: [topics you're learning]
+- 💬 Ask me about: software testing, automation, backend development
+- 🛠 Tech Stack: Python, Go, JavaScript, Linux, Docker, Git
+- ✍️ Blog: [Add your blog if available]
+- 📫 How to reach me: [your email or social handle]
+
+---
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinchentechnote&layout=compact&hide=html,css)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xinchentechnote&show_icons=true&theme=default)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=xinchentechnote&theme=flat&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🧰 Tools I Use
+
+<img src="https://img.shields.io/badge/Code-Visual%20Studio%20Code-blue?logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Shell-Bash-blue?logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/OS-Ubuntu-orange?logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Containers-Docker-blue?logo=docker&logoColor=white" />
+
+---
+
+⭐️ From [xinchentechnote](https://github.com/xinchentechnote)
