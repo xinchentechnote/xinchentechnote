@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Xinchentechnote
+# 👋 Hi there, I'm Xinchen
 
 Welcome to my GitHub profile!  
 I'm passionate about technology, open source, and continuous learning.  
