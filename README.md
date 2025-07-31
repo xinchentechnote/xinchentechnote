@@ -18,12 +18,12 @@ Here you'll find my technical notes, side projects, and contributions to the dev
   - `fin-proto`: A domain-specific language for defining financial message protocols, with a focus on SSE/SZSE binary formats.
     | Repository        | Language    | SSE (Shanghai) | SZSE (Shenzhen) | BJSE | HKEX | NASDAQ | NYSE | LSE |
     |-------------------|-------------|----------------|-----------------|------|------|--------|------|-----|
-    | `fin-proto-rs`    | Rust        | ✓              | ✓               |      |      |        |      |     |
-    | `fin-proto-go`    | Go          | ✓              | ✓               |      |      |        |      |     |
-    | `fin-proto-cpp`   | C++         | ✓              | ✓               |      |      |        |      |     |
-    | `fin-proto-java`  | Java        | ✓              | ✓               |      |      |        |      |     |
-    | `fin-proto-py`    | Python      | ✓              | ✓               |      |      |        |      |     |
-    | `fin-proto`       | Lua & DSL   | ✓              | ✓               | ✓    |      |        |      |     |
+    | `fin-proto-rs`    | Rust        | ✓              | ✓               | ✓   |      |        |      |     |
+    | `fin-proto-go`    | Go          | ✓              | ✓               | ✓   |      |        |      |     |
+    | `fin-proto-cpp`   | C++         | ✓              | ✓               | ✓   |      |        |      |     |
+    | `fin-proto-java`  | Java        | ✓              | ✓               | ✓   |      |        |      |     |
+    | `fin-proto-py`    | Python      | ✓              | ✓               | ✓   |      |        |      |     |
+    | `fin-proto`       | Lua & DSL   | ✓              | ✓               | ✓   |      |        |      |     |
   - `bin-reader`: A Cpp-Base Cli tool for reading and parsing binary files, designed to handle complex binary formats with ease.
 - 👀 Architecture Diagram of the Financial Protocol Toolchain System:
     <img src="image.png" />
