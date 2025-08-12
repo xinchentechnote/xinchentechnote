@@ -8,7 +8,6 @@ Here you'll find my technical notes, side projects, and contributions to the dev
   <img width="200" src="qrcode_for_xinchentechnote_258.jpg" alt="WeChat Official Account">
   <br>WeChat Official Account
 </p>
----
 
 ## 🚀 About Me
 
