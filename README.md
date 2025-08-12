@@ -4,6 +4,10 @@ Welcome to my GitHub profile!
 I'm passionate about technology, open source, and continuous learning.  
 Here you'll find my technical notes, side projects, and contributions to the developer community.
 
+<p align="center">
+  <img width="200" src="qrcode_for_xinchentechnote_258.jpg" alt="WeChat Official Account">
+  <br>WeChat Official Account
+</p>
 ---
 
 ## 🚀 About Me
@@ -16,17 +20,17 @@ Here you'll find my technical notes, side projects, and contributions to the dev
   - `fin-proto-vscode`: A Visual Studio Code extension for `fin-proto` DSL, providing syntax highlighting, code snippets, and basic linting.
   - `fin-protoc`: A Go-based compiler that transforms `fin-proto` DSL into binary-safe code for multiple target languages.
   - `fin-proto`: A domain-specific language for defining financial message protocols, with a focus on SSE/SZSE binary formats.
-    | Repository        | Language    | SSE (Shanghai) | SZSE (Shenzhen) | BJSE | HKEX | NASDAQ | NYSE | LSE |
+    | Repository | Language | SSE (Shanghai) | SZSE (Shenzhen) | BJSE | HKEX | NASDAQ | NYSE | LSE |
     |-------------------|-------------|----------------|-----------------|------|------|--------|------|-----|
-    | `fin-proto-rs`    | Rust        | ✓              | ✓               | ✓   |      |        |      |     |
-    | `fin-proto-go`    | Go          | ✓              | ✓               | ✓   |      |        |      |     |
-    | `fin-proto-cpp`   | C++         | ✓              | ✓               | ✓   |      |        |      |     |
-    | `fin-proto-java`  | Java        | ✓              | ✓               | ✓   |      |        |      |     |
-    | `fin-proto-py`    | Python      | ✓              | ✓               | ✓   |      |        |      |     |
-    | `fin-proto`       | Lua & DSL   | ✓              | ✓               | ✓   |      |        |      |     |
+    | `fin-proto-rs` | Rust | ✓ | ✓ | ✓ | | | | |
+    | `fin-proto-go` | Go | ✓ | ✓ | ✓ | | | | |
+    | `fin-proto-cpp` | C++ | ✓ | ✓ | ✓ | | | | |
+    | `fin-proto-java` | Java | ✓ | ✓ | ✓ | | | | |
+    | `fin-proto-py` | Python | ✓ | ✓ | ✓ | | | | |
+    | `fin-proto` | Lua & DSL | ✓ | ✓ | ✓ | | | | |
   - `bin-reader`: A Cpp-Base Cli tool for reading and parsing binary files, designed to handle complex binary formats with ease.
 - 👀 Architecture Diagram of the Financial Protocol Toolchain System:
-    <img src="image.png" />
+  <img src="image.png" />
 - 🧪 Interested in: Binary protocol simulation, testing tools, and low-latency messaging systems.
 
 > 🚧 Always building. Always learning.
