@@ -1,9 +1,5 @@
 👋 你好呀，这里是歆晨技术笔记。
 
-欢迎来到我的 GitHub 主页！  
-我热爱技术、开源与持续学习。  
-在这里你可以找到我的技术笔记、个人项目，以及对开发者社区的贡献。
-
 <p align="center">
   <img width="200" src="qrcode_for_xinchentechnote_258.jpg" alt="微信公众号二维码">
   <br>微信公众号
@@ -13,7 +9,7 @@
 
 • 🌱 正在做：分布式交易系统开发。
 
-• 💬 可以与我交流：协议解析、自动化工具、后端开发相关问题。
+• 💬 可以与我交流：协议解析、自动化工具、金融交易风控后端开发相关问题。
 
 • 🛠 技术栈：Rust、Go、Java、Python、TypeScript
 
@@ -31,14 +27,12 @@
 
   <img src="image.png" />
 
-🚧 一直在构建，一直在学习。
-
 • ✍️ 博客：https://xinchentechnote.github.io/note/
 
 📊 GitHub 数据
 
-!https://github-readme-stats.vercel.app/api/top-langs/?username=xinchentechnote&layout=compact&hide=html,css
-!https://github-readme-stats.vercel.app/api?username=xinchentechnote&show_icons=true&theme=default
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinchentechnote&layout=compact&hide=html,css)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xinchentechnote&show_icons=true&theme=default)
 
 🧰 常用工具
 
@@ -46,5 +40,3 @@
 <img src="https://img.shields.io/badge/Shell-Bash-blue?logo=gnubash&logoColor=white" />
 <img src="https://img.shields.io/badge/OS-Ubuntu-orange?logo=ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/Containers-Docker-blue?logo=docker&logoColor=white" />
-
-⭐️ 来自 https://github.com/xinchentechnote
