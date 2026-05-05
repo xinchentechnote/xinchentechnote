@@ -20,7 +20,7 @@
   - 端到端自动化测试工具
     [gt-auto](https://github.com/xinchentechnote/gt-auto)
   - 沪深交易所二进制协议sdk java实现
-    [trader-sdk-kava](https://github.com/xinchentechnote/trader-sdk-java)
+    [trader-sdk-java](https://github.com/xinchentechnote/trader-sdk-java)
   - 沪深交易所二进制协议sdk c++实现
     [trader-sdk-cpp](https://github.com/xinchentechnote/trader-sdk-cpp)
   - 交易所协议实现
