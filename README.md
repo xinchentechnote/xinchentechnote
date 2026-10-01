@@ -40,8 +40,9 @@
 
     - [bin-reader](https://github.com/xinchentechnote/bin-reader)：二进制数据阅读器，基于 C++ 的命令行工具。
 
+• 👀 基于rust从零开始构建极速柜台：
+  <img src="fcounter.png" />
 • 👀 从零开始构建分布式金融系统架构图：
-
   <img src="image.png" />
 
 • ✍️ 博客：https://xinchentechnote.github.io/note/
