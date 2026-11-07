@@ -19,6 +19,7 @@
     [net-tap](https://github.com/xinchentechnote/net-tap)
   - 交易所模撮合服务
     [exchange-simulator](https://github.com/xinchentechnote/exchange-simulator)
+    [exchange-simulator-rs](https://github.com/xinchentechnote/exchange-simulator-rs)
   - 端到端自动化测试工具
     [gt-auto](https://github.com/xinchentechnote/gt-auto)
   - 沪深交易所二进制协议sdk java实现
